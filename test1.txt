@@ -1,2 +1,0 @@
-hi we will configure git 
-something change
